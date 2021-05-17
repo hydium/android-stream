@@ -1,0 +1,10 @@
+.gradle
+build/
+
+java_pid17772.hprof
+java_pid27663.hprof
+
+arm64-v8a/
+x86/
+x86_64/
+armeabi-v7a/

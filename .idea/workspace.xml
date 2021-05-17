@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad861d51-fb39-4285-b445-fee15feb4af1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_23_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_23_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_23_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/android-tutorial-1/android.android-tutorial-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/android-tutorial-2/android.android-tutorial-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/android-tutorial-3/android.android-tutorial-3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/android-tutorial-4/android.android-tutorial-4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/android-tutorial-5/android.android-tutorial-5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android-tutorial-1/.idea/modules/android-tutorial-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android-tutorial-3/jni/video_texture.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android-tutorial-3/src/org/freedesktop/gstreamer/androidmedia/GstAhcCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android-tutorial-3/src/org/freedesktop/gstreamer/androidmedia/GstAhsCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android-tutorial-3/src/org/freedesktop/gstreamer/androidmedia/GstAmcOnFrameAvailableListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-tutorial-1/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android-tutorial-1/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-tutorial-2/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android-tutorial-2/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-tutorial-3/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android-tutorial-3/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-tutorial-3/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android-tutorial-3/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-tutorial-3/jni/Android.mk" beforeDir="false" afterPath="$PROJECT_DIR$/android-tutorial-3/jni/Android.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-tutorial-3/jni/Application.mk" beforeDir="false" afterPath="$PROJECT_DIR$/android-tutorial-3/jni/Application.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-tutorial-3/jni/tutorial-3.c" beforeDir="false" afterPath="$PROJECT_DIR$/android-tutorial-3/jni/tutorial-3.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-tutorial-3/src/org/freedesktop/gstreamer/tutorials/tutorial_3/Tutorial3.java" beforeDir="false" afterPath="$PROJECT_DIR$/android-tutorial-3/src/org/freedesktop/gstreamer/tutorials/tutorial_3/Tutorial3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-tutorial-4/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android-tutorial-4/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-tutorial-5/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-tutorial-5/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-tutorial-5/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-tutorial-5/jni/Android.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-tutorial-5/jni/Application.mk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-tutorial-5/jni/dummy.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-tutorial-5/jni/tutorial-5.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-tutorial-5/res/drawable-ldpi/file.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-tutorial-5/res/drawable-ldpi/folder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-tutorial-5/res/drawable-ldpi/gstreamer_logo_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-tutorial-5/res/drawable-mdpi/gstreamer_logo_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-tutorial-5/res/drawable-xhdpi/gstreamer_logo_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-tutorial-5/res/drawable-xxhdpi/gstreamer_logo_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-tutorial-5/res/drawable-xxxhdpi/gstreamer_logo_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-tutorial-5/res/layout/file_dialog_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-tutorial-5/res/layout/file_dialog_row.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-tutorial-5/res/layout/main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-tutorial-5/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-tutorial-5/src/com/lamerman/FileDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-tutorial-5/src/org/freedesktop/gstreamer/tutorials/tutorial_5/GStreamerSurfaceView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android-tutorial-5/src/org/freedesktop/gstreamer/tutorials/tutorial_5/Tutorial5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic-tutorial-13.c" beforeDir="false" afterPath="$PROJECT_DIR$/../basic-tutorial-13.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic-tutorial-2.c" beforeDir="false" afterPath="$PROJECT_DIR$/../basic-tutorial-2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic-tutorial-3.c" beforeDir="false" afterPath="$PROJECT_DIR$/../basic-tutorial-3.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../playback-tutorial-1.c" beforeDir="false" afterPath="$PROJECT_DIR$/../playback-tutorial-1.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[1WMHH844AQ1082]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1rMxlY16wP7WYqV45kgN6YPMfCw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="1WMHH844AQ1082" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-04-20T05:05:17.585Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/android-tutorial-3/jni" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/gradle" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.android-tutorial-3">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="android-tutorial-1" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="android.android-tutorial-1" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="android-tutorial-2" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="android.android-tutorial-2" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="android-tutorial-3" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="android.android-tutorial-3" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="android-tutorial-4" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="android.android-tutorial-4" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="android-tutorial-5" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="android.android-tutorial-5" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/home/wom/Desktop/gst-docs/examples/tutorials/android" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle./home/wom/Desktop/gst-docs/examples/tutorials/android" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad861d51-fb39-4285-b445-fee15feb4af1" name="Default Changelist" comment="" />
+      <created>1618799912075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618799912075</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1032" y="518" width="1900" height="1076" key="#PSD" timestamp="1618883489549">
+      <screen x="134" y="55" width="3706" height="2105" />
+    </state>
+    <state x="1032" y="518" width="1900" height="1076" key="#PSD/134.55.3706.2105@134.55.3706.2105" timestamp="1618883489549" />
+    <state x="1429" y="580" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618800703193">
+      <screen x="134" y="55" width="3706" height="2105" />
+    </state>
+    <state x="1429" y="580" key="#com.intellij.execution.impl.EditConfigurationsDialog/134.55.3706.2105@134.55.3706.2105" timestamp="1618800703193" />
+    <state x="1458" y="595" width="1048" height="1018" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1618809520203">
+      <screen x="134" y="55" width="3706" height="2105" />
+    </state>
+    <state x="1458" y="595" width="1048" height="1018" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/134.55.3706.2105@134.55.3706.2105" timestamp="1618809520203" />
+    <state x="234" y="119" width="3506" height="1925" key="AVDManager" timestamp="1618800931988">
+      <screen x="134" y="55" width="3706" height="2105" />
+    </state>
+    <state x="234" y="119" width="3506" height="1925" key="AVDManager/134.55.3706.2105@134.55.3706.2105" timestamp="1618800931988" />
+    <state x="1558" y="569" width="848" height="1039" key="FileChooserDialogImpl" timestamp="1618808353180">
+      <screen x="134" y="55" width="3706" height="2105" />
+    </state>
+    <state x="1558" y="569" width="848" height="1039" key="FileChooserDialogImpl/134.55.3706.2105@134.55.3706.2105" timestamp="1618808353180" />
+    <state width="1853" height="573" key="GridCell.Tab.0.bottom" timestamp="1618897480803">
+      <screen x="134" y="55" width="3706" height="2105" />
+    </state>
+    <state width="1853" height="573" key="GridCell.Tab.0.bottom/134.55.3706.2105@134.55.3706.2105" timestamp="1618897480803" />
+    <state width="1853" height="573" key="GridCell.Tab.0.center" timestamp="1618897480803">
+      <screen x="134" y="55" width="3706" height="2105" />
+    </state>
+    <state width="1853" height="573" key="GridCell.Tab.0.center/134.55.3706.2105@134.55.3706.2105" timestamp="1618897480803" />
+    <state width="1853" height="573" key="GridCell.Tab.0.left" timestamp="1618897480803">
+      <screen x="134" y="55" width="3706" height="2105" />
+    </state>
+    <state width="1853" height="573" key="GridCell.Tab.0.left/134.55.3706.2105@134.55.3706.2105" timestamp="1618897480803" />
+    <state width="1853" height="573" key="GridCell.Tab.0.right" timestamp="1618897480803">
+      <screen x="134" y="55" width="3706" height="2105" />
+    </state>
+    <state width="1853" height="573" key="GridCell.Tab.0.right/134.55.3706.2105@134.55.3706.2105" timestamp="1618897480803" />
+    <state width="1853" height="573" key="GridCell.Tab.1.bottom" timestamp="1618884964008">
+      <screen x="134" y="55" width="3706" height="2105" />
+    </state>
+    <state width="1853" height="573" key="GridCell.Tab.1.bottom/134.55.3706.2105@134.55.3706.2105" timestamp="1618884964008" />
+    <state width="1853" height="573" key="GridCell.Tab.1.center" timestamp="1618884964008">
+      <screen x="134" y="55" width="3706" height="2105" />
+    </state>
+    <state width="1853" height="573" key="GridCell.Tab.1.center/134.55.3706.2105@134.55.3706.2105" timestamp="1618884964008" />
+    <state width="1853" height="573" key="GridCell.Tab.1.left" timestamp="1618884964007">
+      <screen x="134" y="55" width="3706" height="2105" />
+    </state>
+    <state width="1853" height="573" key="GridCell.Tab.1.left/134.55.3706.2105@134.55.3706.2105" timestamp="1618884964007" />
+    <state width="1853" height="573" key="GridCell.Tab.1.right" timestamp="1618884964008">
+      <screen x="134" y="55" width="3706" height="2105" />
+    </state>
+    <state width="1853" height="573" key="GridCell.Tab.1.right/134.55.3706.2105@134.55.3706.2105" timestamp="1618884964008" />
+    <state x="978" y="366" width="2018" height="1476" key="SettingsEditor" timestamp="1621216857902">
+      <screen x="134" y="55" width="3706" height="2105" />
+    </state>
+    <state x="978" y="366" width="2018" height="1476" key="SettingsEditor/134.55.3706.2105@134.55.3706.2105" timestamp="1621216857902" />
+    <state x="1307" y="454" width="1350" height="1237" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1618885773439">
+      <screen x="134" y="55" width="3706" height="2105" />
+    </state>
+    <state x="1307" y="454" width="1350" height="1237" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/134.55.3706.2105@134.55.3706.2105" timestamp="1618885773439" />
+  </component>
+</project>
